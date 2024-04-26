@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoConsole.Repository", "KomodoConsole_Repository\KomodoConsole.Repository.csproj", "{1400AE2B-CDC1-45E7-A663-4AA0069C966B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoConsole.Console", "KomodoConsole_Console\KomodoConsole.Console.csproj", "{364C4ACC-DDB1-4F11-AA0E-E752D503EE08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1400AE2B-CDC1-45E7-A663-4AA0069C966B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1400AE2B-CDC1-45E7-A663-4AA0069C966B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1400AE2B-CDC1-45E7-A663-4AA0069C966B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1400AE2B-CDC1-45E7-A663-4AA0069C966B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{364C4ACC-DDB1-4F11-AA0E-E752D503EE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364C4ACC-DDB1-4F11-AA0E-E752D503EE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364C4ACC-DDB1-4F11-AA0E-E752D503EE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364C4ACC-DDB1-4F11-AA0E-E752D503EE08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

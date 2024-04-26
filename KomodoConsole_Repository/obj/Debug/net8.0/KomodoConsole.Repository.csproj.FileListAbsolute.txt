@@ -1,0 +1,11 @@
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoConsole2/KomodoConsole_Repository/bin/Debug/net8.0/KomodoConsole.Repository.deps.json
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoConsole2/KomodoConsole_Repository/bin/Debug/net8.0/KomodoConsole.Repository.dll
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoConsole2/KomodoConsole_Repository/bin/Debug/net8.0/KomodoConsole.Repository.pdb
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoConsole2/KomodoConsole_Repository/obj/Debug/net8.0/KomodoConsole.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoConsole2/KomodoConsole_Repository/obj/Debug/net8.0/KomodoConsole.Repository.AssemblyInfoInputs.cache
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoConsole2/KomodoConsole_Repository/obj/Debug/net8.0/KomodoConsole.Repository.AssemblyInfo.cs
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoConsole2/KomodoConsole_Repository/obj/Debug/net8.0/KomodoConsole.Repository.csproj.CoreCompileInputs.cache
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoConsole2/KomodoConsole_Repository/obj/Debug/net8.0/KomodoConsole.Repository.dll
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoConsole2/KomodoConsole_Repository/obj/Debug/net8.0/refint/KomodoConsole.Repository.dll
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoConsole2/KomodoConsole_Repository/obj/Debug/net8.0/KomodoConsole.Repository.pdb
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoConsole2/KomodoConsole_Repository/obj/Debug/net8.0/ref/KomodoConsole.Repository.dll

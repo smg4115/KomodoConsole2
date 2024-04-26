@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "KomodoConsole.Console/1.0.0": {
+        "dependencies": {
+          "KomodoConsole.Repository": "1.0.0"
+        },
+        "runtime": {
+          "KomodoConsole.Console.dll": {}
+        }
+      },
+      "KomodoConsole.Repository/1.0.0": {
+        "runtime": {
+          "KomodoConsole.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KomodoConsole.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KomodoConsole.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
